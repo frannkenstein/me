@@ -7,7 +7,11 @@ function App() {
     <div className="App">
       Aakash Singh
       <div>One two</div>
+<<<<<<< HEAD
     <div>two</div>
+=======
+      <div>dwqedqew</div>
+>>>>>>> check 5
     </div>
   );
 }
